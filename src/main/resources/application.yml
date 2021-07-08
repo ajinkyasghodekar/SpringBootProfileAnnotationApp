@@ -1,0 +1,7 @@
+#This is default properties
+my:
+  student:
+    sid: 101
+    smark: 80
+    sname: Ajay
+    sloc: Pune 

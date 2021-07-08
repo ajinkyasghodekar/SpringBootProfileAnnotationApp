@@ -1,0 +1,7 @@
+#This is dev properties
+my:
+  student:
+    sid: 102
+    smark: 81
+    sname: Amul
+    sloc: Mumbai
